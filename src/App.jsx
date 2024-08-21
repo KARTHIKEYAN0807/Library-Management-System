@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Navbar';
-import BooksPage from './Bookspage';
+import BooksPage from './BooksPage';
 import AuthorsPage from './AuthorsPage';
 import './App.css';
 
