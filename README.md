@@ -1,8 +1,20 @@
-# React + Vite
+# Library Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based library management system that allows users to manage book and author details.
+![Screenshot 2024-08-21 205237](https://github.com/user-attachments/assets/c787ca8f-fdec-40ee-a690-be64d3557702)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add, edit, and delete book records.
+- Add, edit, and delete author records.
+- Form validation using Formik and Yup.
+- Responsive and clean UI design.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/library-management.git
+   cd library-management
